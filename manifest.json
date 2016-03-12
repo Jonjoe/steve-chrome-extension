@@ -1,0 +1,17 @@
+{
+  "name": "Alan",
+  "description": "Steve",
+  "version": "1",
+  "background": { "scripts": ["background.js"] },
+  "browser_action": {
+    "name": "Click it",
+    "default_icon": {
+      "19": "icon1.png",
+      "38": "icon1.png"
+    }
+  },
+  "manifest_version": 2,
+  "icons": { "16": "icon1.png",
+    "48": "icon1.png",
+    "128": "icon1.png" }
+  }
