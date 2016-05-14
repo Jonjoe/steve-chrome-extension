@@ -2,12 +2,12 @@ var orchestra = [];
 var current_audio_index = 1;
 
 function rng(min, max) {
-    return Math.random() * (max - min) + min;
+		return parseInt(Math.random() * (max - min) + min);
 }
 
 var soundeffect = function() {
 	this.audio = new Audio();
-	this.audio.src = 'audio/steve' + rng(1,8)   + '.wav';
+	this.audio.src = 'audio/steve' + rng(1,9)   + '.wav';
 
 	this.start = function() {
 		this.audio.play();
