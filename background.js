@@ -1,15 +1,13 @@
 var orchestra = [];
-var audio_files = 15;
 var current_audio_index = 1;
+
+function rng(min, max) {
+    return Math.random() * (max - min) + min;
+}
 
 var soundeffect = function() {
 	this.audio = new Audio();
-	this.audio.src = 'audio/alan' + current_audio_index   + '.wav';
-
-	current_audio_index ++;
-	if (current_audio_index == audio_files){
-		current_audio_index = 1;
-	}
+	this.audio.src = 'audio/steve' + rng(1,8)   + '.wav';
 
 	this.start = function() {
 		this.audio.play();

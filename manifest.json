@@ -1,6 +1,6 @@
 {
-  "name": "Alan",
-  "description": "Steve",
+  "name": "Steve",
+  "description": "Alan",
   "version": "1",
   "background": { "scripts": ["background.js"] },
   "browser_action": {

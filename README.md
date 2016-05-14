@@ -1,9 +1,9 @@
-# alan-chrome-extension
+# steve-chrome-extension
 
-- Chrome extension which adds a button to shout "Alan"
+- Chrome extension which adds a button to shout "Steve"
 - From the BBC TV show [Walk On The Wild Side](http://www.bbc.co.uk/programmes/b00mc0rh)
 
-![](http://i.imgur.com/Igmcaot.png)
+![](steve.png)
 Video: [https://www.youtube.com/watch?v=xaPepCVepCg](https://www.youtube.com/watch?v=xaPepCVepCg)
 
 # Getting started
