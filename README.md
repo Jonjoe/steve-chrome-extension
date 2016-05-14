@@ -9,4 +9,4 @@ Video: [https://www.youtube.com/watch?v=xaPepCVepCg](https://www.youtube.com/wat
 # Getting started
 - Download the repository
 - Follow the instructions <a href="https://developer.chrome.com/extensions/getstarted#unpacked" target="_blank">here</a> on adding an unofficial extension to chrome
-- ![](http://i.imgur.com/SHaA4vt.png) You should see this icon now in your browser... click it!
+- ![](icon1.png) You should see this icon now in your browser... click it!
